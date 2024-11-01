@@ -8,7 +8,7 @@
 - API 연동 시 아래의 POSTMAN에 설명된 내용을 참고해주세요.
     -  https://documenter.getpostman.com/view/38578948/2sAXxY4URu
 - <b><u>REST API의 base url은 http://test.zerorder.kr 입니다.</u></b>
-
+- <b>과제 진행 시 인터넷 검색은 가능하며, chatgpt 와 같은 AI 서비스는 이용이 불가능합니다.</b>
 <br/>
 
 ### 과제 요구사항
