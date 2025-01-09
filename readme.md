@@ -1,19 +1,25 @@
 ## 상품조회 화면 구현하기
 
+### <u>과제 구현 방법: React, NextJS, Vanilla JS 중 택 1.
+### 라이브러리 사용: 제한없음</u>
+
 ### 구현 및 테스트 방법
-- (vscode) 우측 하단에 있는 'Go Live' 버튼을 클릭하여 live server를 실행하면, http://localhost:5500 으로 접속하여 테스트할 수 있습니다. 
-![ex_screenshot](./image/ex1.png)
-- 아래의 요구사항을 구현하기 위해, 제공된 파일 (index.html, style.css, index.js)의 내용을 추가 또는 수정하시면 됩니다.
-- 필요한 경우 파일을 새로 생성하여 추가하셔도 무방합니다. 다만 기본적으로 제공되는 파일을 삭제해서는 안됩니다.
+
+
+- 아래의 요구사항을 구현하기 위해, 제공된 파일 (index.html, style.css)의 내용을 참고해주세요.
 - API 연동 시 아래의 POSTMAN에 설명된 내용을 참고해주세요.
     -  https://documenter.getpostman.com/view/38578948/2sAXxY4URu
 - <b><u>REST API의 base url은 http://test.zerorder.kr 입니다.</u></b>
-- <b>과제 진행 시 인터넷 검색은 가능하며, chatgpt 와 같은 AI 서비스는 이용이 불가능합니다.</b>
+- <b>과제 진행 시 인터넷 검색은 가능하며, chatgpt, claude, perflexity 와 같은 AI 서비스는 이용이 불가능합니다.</b>
 <br/>
 
 ### 과제 요구사항
 
 > 기존에 주어진 '상품조회' 화면과 '상품추가' 모달을 바탕으로 아래의 요구사항을 만족하는 기능을 구현합니다.
+> 프로젝트의 
+
+<br/>
+
 
 
 #### 1. 상품 카테고리 불러오기
@@ -57,4 +63,3 @@
 > <br/>
 > ian@zerorder.kr
 > <br/>
-> *로컬에서 작업한 내용은 이후 면접진행자를 위해 반드시 삭제부탁드립니다.
